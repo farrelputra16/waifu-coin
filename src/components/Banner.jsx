@@ -103,7 +103,7 @@ function Banner() {
             <img src={img5} alt='The weirdos'/>
             <img src={img6} alt='The weirdos'/>
         </ImageContainer>
-        <Title> Join The <br/> Weirdos Club</Title>
+        <Title> Join The <br/> Waifu Coin Community</Title>
         <BtnContainer>
             <JoiNow>
                 Join Now

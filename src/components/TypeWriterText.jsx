@@ -45,27 +45,27 @@ function TypeWriterText() {
   return (
     <>
         <Title>
-      Discover a new era of cool
+      Discover Beautiful Waifu Coin
       <Typewriter
       options={{
         autoStart: true,
         loop: true,
       }}
         onInit={(typewriter) => {
-          typewriter.typeString('<span class="text-1">NFTs.</span>')
+          typewriter.typeString('<span class="text-1">Sexy.</span>')
           .pauseFor(2000)
           .deleteAll()
-          .typeString('<span class="text-2">Collectible Items.</span>')
+          .typeString('<span class="text-2">Beatifull.</span>')
           .pauseFor(2000)
           .deleteAll()
-          .typeString('<span class="text-3">Ape Killers!</span>')
+          .typeString('<span class="text-3">Pumping</span>')
           .pauseFor(2000)
           .deleteAll()
           .start()
         }}
       />
     </Title>
-    <SubTitle>Bored Of Apes? Try Something New</SubTitle>
+    <SubTitle>Bored Of Larps? See the beautiful waifus</SubTitle>
     <ButtonContainer>
         <Button text="Explore" link="#about"/>
     </ButtonContainer>

@@ -101,34 +101,6 @@ function Carousel() {
           {" "}
           <img src={img3} alt="The Weirdos" />{" "}
         </SwiperSlide>
-        <SwiperSlide>
-          {" "}
-          <img src={img4} alt="The Weirdos" />{" "}
-        </SwiperSlide>
-        <SwiperSlide>
-          {" "}
-          <img src={img5} alt="The Weirdos" />{" "}
-        </SwiperSlide>
-        <SwiperSlide>
-          {" "}
-          <img src={img6} alt="The Weirdos" />{" "}
-        </SwiperSlide>
-        <SwiperSlide>
-          {" "}
-          <img src={img7} alt="The Weirdos" />{" "}
-        </SwiperSlide>
-        <SwiperSlide>
-          {" "}
-          <img src={img8} alt="The Weirdos" />{" "}
-        </SwiperSlide>
-        <SwiperSlide>
-          {" "}
-          <img src={img9} alt="The Weirdos" />{" "}
-        </SwiperSlide>
-        <SwiperSlide>
-          {" "}
-          <img src={img10} alt="The Weirdos" />{" "}
-        </SwiperSlide>
       </Swiper>
     </Container>
   );

@@ -63,11 +63,9 @@ const scrollTo = (id) =>{
           <MenuItem onClick={()=> scrollTo('home')}>Home</MenuItem>
           <MenuItem onClick={()=> scrollTo('about')}>About</MenuItem>
           <MenuItem onClick={()=> scrollTo('roadmap')}>Roadmap</MenuItem>
-          <MenuItem onClick={()=> scrollTo('showcase')}>Showcase</MenuItem>
-          <MenuItem onClick={()=> scrollTo('team')}>Team</MenuItem>
           <MenuItem onClick={()=> scrollTo('faq')}>Faq</MenuItem>
         </Menu>
-        <Button text="Connect Wallet" link="https://google.com"/>
+        <Button text="CA : Coming Soon" link="https://google.com"/>
       </NavBar>
     </Section>
   );

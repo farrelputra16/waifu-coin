@@ -17,7 +17,7 @@ const LogoText = styled.h1`
 function Logo() {
   return (
     <LogoText>
-      <Link to="/">W.</Link>
+      <Link to="/">Waifu Coin</Link>
     </LogoText>
   );
 }

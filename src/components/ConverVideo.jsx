@@ -1,17 +1,20 @@
 import styled from 'styled-components';
-import GIF from '../assets/Home Video.mp4';
+import Image from '../assets/waifu-coin.png'; // Replace with your image path
 
-const VideoContainer = styled.div`
-width: 100%;
-video{
+const ImageContainer = styled.div`
+  width: 100%;
+  img {
     width: 100%;
-    height:auto;
-}
+    height: auto;
+  }
 `;
-function ConverVideo() {
+
+function CoverImage() {
   return (
-    <VideoContainer><video src={GIF} type="video/mp4" autoPlay muted loop/></VideoContainer>
-  )
+    <ImageContainer>
+      <img src={Image} alt="Cover" />
+    </ImageContainer>
+  );
 }
 
-export default ConverVideo
+export default CoverImage;

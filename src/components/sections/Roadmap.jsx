@@ -167,11 +167,11 @@ function Roadmap() {
         </SvgContainer>
         <Items>
         <Item>&nbsp;</Item>
-          <RoadMapItem addToRef={addToRefs} title="Grand Opening" subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."/>
-          <RoadMapItem addToRef={addToRefs} title="Great Benefits" subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."/>
-          <RoadMapItem addToRef={addToRefs} title="Early Access" subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."/>
-          <RoadMapItem addToRef={addToRefs} title="New Merch" subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."/>
-          <RoadMapItem addToRef={addToRefs} title="Holders Ranking" subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."/>
+          <RoadMapItem addToRef={addToRefs} title="Launching" subtext=""/>
+          <RoadMapItem addToRef={addToRefs} title="Dex Paid at 30K" subtext=""/>
+          <RoadMapItem addToRef={addToRefs} title="Bumps Running" subtext=""/>
+          <RoadMapItem addToRef={addToRefs} title="Boost at 40K" subtext=""/>
+          <RoadMapItem addToRef={addToRefs} title="Kols Call after Bond" subtext=""/>
  
         </Items>
       </Container>

@@ -19,9 +19,7 @@ function App() {
         <Navigation />
         <Home/>
         <About/>        
-        <Roadmap/>        
-        <Showcase/>        
-        <Team/>        
+        <Roadmap/>             
         <Faq/>        
         <Footer/>        
 

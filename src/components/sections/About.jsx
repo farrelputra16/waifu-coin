@@ -69,17 +69,17 @@ function About() {
     <Section id='about'>
       <Container>
         <Box> <Carousel/> </Box>
-        <Box><Title>Welcome To The Weirdos Club.
+        <Box><Title>Welcome To The Waifu Community.
         </Title>
         <SubText>
-        The WEIRDOS CLUB is a private collection of NFTs—unique digital collectibles. The Weirdos are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.
+        The Waifu Coin is a Community Coin which is based by Waifu Lovers
         </SubText>
         <SubTextLight>
-        With more than 200+ hand drawn traits, each NFT is unique and comes with a membership to an exclusive group of successful investors. Join an ambitious ever-growing community with multiple benefits and utilities.
+        With Based Community and Dev, this coin will bring us to meet our waifus
         </SubTextLight>
         <ButtonContainer>
           <ThemeProvider theme={dark}>
-            <Button text="JOIN OUR DISCORD" link="#"/>
+            <Button text="JOIN OUR TELEGRAM" link="#"/>
           </ThemeProvider>
         </ButtonContainer>
         </Box>

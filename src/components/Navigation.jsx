@@ -65,7 +65,7 @@ const scrollTo = (id) =>{
           <MenuItem onClick={()=> scrollTo('roadmap')}>Roadmap</MenuItem>
           <MenuItem onClick={()=> scrollTo('faq')}>Faq</MenuItem>
         </Menu>
-        <Button text="CA : Coming Soon" link="https://google.com"/>
+        <Button text="CA : 9arUPjDUCzz9jq5kRE9zM3qSudoNjqUHXh8QTnVwbonk" link="https://google.com"/>
       </NavBar>
     </Section>
   );
